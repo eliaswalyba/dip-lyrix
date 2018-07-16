@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-__author__ = 'Tony Beltramelli www.tonybeltramelli.com - 09/07/2016'
-
 import argparse
 import os
 import urllib2

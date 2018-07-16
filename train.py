@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-__author__ = 'Tony Beltramelli www.tonybeltramelli.com - 19/08/2016'
-
 import os
 import argparse
 from modules.Model import *

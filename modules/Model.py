@@ -1,5 +1,3 @@
-__author__ = 'Tony Beltramelli www.tonybeltramelli.com - 19/08/2016'
-
 import tensorflow as tf
 import pickle
 from tensorflow.contrib import rnn

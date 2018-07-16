@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-__author__ = 'Tony Beltramelli www.tonybeltramelli.com - 20/08/2016'
-
 import codecs
 from modules.Vocabulary import *
 
